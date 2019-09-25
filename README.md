@@ -1,2 +1,2 @@
 # myjs
-I love js
+I love html
